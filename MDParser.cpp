@@ -1,3 +1,10 @@
+/*
+ * Project: 1C 7.7 Configuration Parser
+ * Author:  PrS <bigsprut@gmail.com>
+ * GitHub:  https://github.com/bigsprut
+ * License: MIT
+ */
+ 
 #include "MDParser.h"
 #include "miniz.h" 
 #include <comdef.h>
