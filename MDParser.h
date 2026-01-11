@@ -1,3 +1,10 @@
+/*
+ * Project: 1C 7.7 Configuration Parser
+ * Author:  PrS <bigsprut@gmail.com>
+ * GitHub:  https://github.com/bigsprut
+ * License: MIT
+ */
+ 
 #pragma once
 #include <windows.h>
 #include <string>

@@ -1,3 +1,10 @@
+/*
+ * Project: 1C 7.7 Configuration Parser
+ * Author:  PrS <bigsprut@gmail.com>
+ * GitHub:  https://github.com/bigsprut
+ * License: MIT
+ */
+ 
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <commctrl.h>
